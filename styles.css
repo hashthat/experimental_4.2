@@ -1,22 +1,24 @@
+/* this is the body of the website */
 body {
     font-family: Arial, sans-serif;
 }
-
+/* this is the container for the app section which holds the buttons */
 .app {
     text-align: center;
     margin-top: 50px;
 }
-
+/* the buttons!!! */
 button {
     margin: 10px;
     padding: 10px 20px;
     font-size: 16px;
 }
-
+/* this is the meme image and the width and height given how it appears on the webpage. There are a few files I wanted to use locally and decided to keep the astral android image */
 #memeImage {
     position: absolute;
     width: 250px;
 }
+/* this gets the background image from my github page. I have been used to using the links through website links where It can be changed to a local file in the repository */
        body::before {
             content: '';
             position: fixed;
@@ -31,3 +33,4 @@ button {
             /* opacity: 0.7; */
             z-index: -1;
 }
+
