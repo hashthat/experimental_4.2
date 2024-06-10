@@ -1,8 +1,12 @@
+# My Project
+
+## Demo Video
+
+[Click here to watch the demo video](./assets/experimental_4.2.mkv)
+
 # experimental_4.2
 # npm i -g live-server
-# live-server will run the project locally from this file.
-# Video of what the project looks like!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0FggZnORcps?si=FyjnpEB3UikPIrKb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 in this project, I'm starting with a webserver which works locally through the chrome dev tools.
 
 The local hosting environments I've had the chance to explore have been:
