@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		
 		
             audio.play(); // the audio plays from the beginning of the function when the button is pressed.
-        }, 1000);
+        }, 1000); // this is the set interval for 1000 miliseconds for the setinterval function. So every 1000 miliseconds the image will move randomly rotating between vertical and horizontal movements.
     };
 // this function stops the event! -- and stops the music with the event.
     const stopMoving = () => {
