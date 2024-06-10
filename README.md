@@ -1,6 +1,6 @@
 # experimental_4.2
 # npm i -g live-server
-
+# live-server will run the project locally from this file.
 
 in this project, I'm starting with a webserver which works locally through the chrome dev tools.
 
