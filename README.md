@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Click here to watch the demo video](./assets/experimental_4.2.mkv)
+[Click here to watch the demo video](https://youtu.be/0FggZnORcps?si=8i8RbXC3U5wV6jJ0)
 
 # experimental_4.2
 # npm i -g live-server
